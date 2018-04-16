@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796394024373",
+    "firebase_url": "https://restro-17ae2.firebaseio.com",
+    "project_id": "restro-17ae2",
+    "storage_bucket": "restro-17ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796394024373:android:471bda00c4455cd4",
+        "android_client_info": {
+          "package_name": "com.c1pher.restro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796394024373-kek19vfv979tli5eosmq05ni6fqq7vmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c1pher.restro",
+            "certificate_hash": "efee552ae00f69cdb91f8c9f5a4eae4da6dd6902"
+          }
+        },
+        {
+          "client_id": "796394024373-k904oabe3et6lv2blnbbipar7snnsevb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUj2Bq4Oz42HWMoHkkX8I-j8epZcE0_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796394024373-k904oabe3et6lv2blnbbipar7snnsevb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
